@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#11161C"/>
+  <!-- Outer subtle viewfinder crop brackets -->
+  <path d="M96 164V112C96 103.163 103.163 96 112 96H164" stroke="#E04F22" stroke-width="20" stroke-linecap="round" fill="none"/>
+  <path d="M348 96H400C408.837 96 416 103.163 416 112V164" stroke="#E04F22" stroke-width="20" stroke-linecap="round" fill="none"/>
+  <path d="M96 348V400C96 408.837 103.163 416 112 416H164" stroke="#E04F22" stroke-width="20" stroke-linecap="round" fill="none"/>
+  <path d="M348 416H400C408.837 416 416 408.837 416 400V348" stroke="#E04F22" stroke-width="20" stroke-linecap="round" fill="none"/>
+  <!-- Stylized front car silhouette -->
+  <path d="M148 258L174 188C180 172 194 162 212 162H300C318 162 332 172 338 188L364 258" stroke="#F8FAFC" stroke-width="22" stroke-linejoin="round" fill="none"/>
+  <rect x="128" y="254" width="256" height="84" rx="22" fill="#F8FAFC"/>
+  <!-- Headlamps -->
+  <circle cx="172" cy="296" r="20" fill="#E04F22"/>
+  <circle cx="340" cy="296" r="20" fill="#E04F22"/>
+  <!-- Grille slats -->
+  <rect x="214" y="280" width="84" height="10" rx="5" fill="#11161C"/>
+  <rect x="214" y="302" width="84" height="10" rx="5" fill="#11161C"/>
+  <!-- Wheel arches -->
+  <rect x="148" y="338" width="44" height="24" rx="8" fill="#E04F22"/>
+  <rect x="320" y="338" width="44" height="24" rx="8" fill="#E04F22"/>
+</svg>
